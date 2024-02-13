@@ -1,0 +1,140 @@
+{
+  "_id": 1,
+  "personal": {
+    "fullName": "Shirdi Kummarakuntla",
+    "imgUrl": "",
+    "age": "24",
+    "gender": "male"
+  },
+  "education": [
+    {
+      "institution": "University of New Haven",
+      "Location": "West Haven, CT",
+      "eName": "Masters",
+      "concentration": "Computer Science",
+      "pursuing": true,
+      "grade": [
+        "3.6",
+        "4"
+      ],
+      "passout": "2024"
+    },
+    {
+      "institution": "Lovely Professional University",
+      "Location": "Punjab, India",
+      "eName": "Bachelors",
+      "concentration": "Electronics and Communication Engineering",
+      "pursuing": false,
+      "grade": [
+        "7.9",
+        "10"
+      ],
+      "passout": "2021"
+    }
+  ],
+  "experience": [
+    {
+      "eType": "Part-time",
+      "employer": "University of New Haven",
+      "role": "Graduate Assistant",
+      "working": true,
+      "duration": [
+        "Feb 2023",
+        "May 2023"
+      ],
+      "description": "Reviewed and processed over 1000 admission applications received at the university within 2 months, using an internal web application and rules of eligibility which utilizes instance database. Helped the Enrollment Department to automate some grunt work with software development",
+      "links": []
+    },
+    {
+      "eType": "Full-time",
+      "employer": "Capgemini",
+      "role": "Intern as Java Full-Stack Developer",
+      "working": false,
+      "duration": [
+        "Jan 2021",
+        "May 2021"
+      ],
+      "description": "Learnt various technologies. Git, MongoDB, HTML, CSS, JavaScript, Java, Spring, React.js. Created a Responsive Single-page Full-Stack Web Application (Grab’n’Go) using React.js, Spring, MongoDB, Tailwind CSS.Successfully completed the Internship. Stood top in a batch of 60, one of 5, selected from around 5000 applicants",
+      "links": []
+    },
+    {
+      "eType": "Full-time",
+      "employer": "Capgemini",
+      "role": "Software Developer",
+      "working": false,
+      "duration": [
+        "Jun 2021",
+        "Jul 2022"
+      ],
+      "description": "Boosted client’s productivity by 30% by designing a B2B web application with React.js and Redux. Identified web-based user interactions, crafted frontend architecture, drafted user stories, and constructed the application in Agile Environment. Received Super Team Award for 2021-H2, representing the excellence and efficiency of the team",
+      "links": []
+    }
+  ],
+  "projects": [
+    {
+      "pName": "Can't Stop",
+      "pTag": "",
+      "location": "University of New Haven",
+      "pDescription": "A CLI program for the Can't Stop board game was built using OOP principles. The game's functionality was divided into modules for better code readability. OOP concepts such as Polymorphism, Templates, Inheritance, and Abstract classes were utilized in the project's creation.",
+      "cWorking": true,
+      "duration": [
+        "Jan 2023",
+        "May 2023"
+      ],
+      "skills": [
+        "C++",
+        "OOPS"
+      ],
+      "links": []
+    },
+    {
+      "pName": "Grab 'n' Go",
+      "pTag": "",
+      "location": "Capgemini",
+      "pDescription": "Designed and developed a Full-Stack Web Application individually from scratch with React.js, Spring, Mongo DB, Tailwind CSS, Neumorphism UI. The application supports Micro-service-based architecture, Authentication, Authorization. Grab’n’Go is a one-stop shop for deals and coupons all over the internet, e-commerce web application. UI Host Link",
+      "cWorking": false,
+      "duration": [
+        "Mar 2021",
+        "Apr 2021"
+      ],
+      "skills": [
+        "React.js",
+        "CSS3",
+        "HTML5",
+        "Tailwind CSS",
+        "JS",
+        "Spring",
+        "Mongo DB"
+      ],
+      "links": [
+        "https://shirdik.github.io/react-grabngo/"
+      ]
+    }
+  ],
+  "skills": [
+    "Vue.js",
+    "React.js",
+    "Redux",
+    "HTML5",
+    "CSS3",
+    "JS",
+    "Tailwind CSS",
+    "Java",
+    "Spring",
+    "Visual Studio Code",
+    "C++",
+    "Mongo DB",
+    "OOPS",
+    "MVC",
+    "Micro-services",
+    "RESTful APIs",
+    "Git"
+  ],
+  "social": {
+    "LinkedIn": "https://www.linkedin.com/in/shirdik/",
+    "Github": "https://github.com/Shirdik",
+    "Leetcode": "https://leetcode.com/Shirdik/",
+    "Instagram": "https://www.instagram.com/____the_artsy_lens__/"
+  },
+  "email": "mailto:shirdi1241@outlook.com"
+}
