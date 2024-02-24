@@ -42,7 +42,7 @@
         "Feb 2023",
         "May 2023"
       ],
-      "description": "Reviewed and processed over 1000 admission applications received at the university within 2 months, using an internal web application and rules of eligibility which utilizes instance database. Helped the Enrollment Department to automate some grunt work with software development",
+      "description": "Created and effectively managed University Immigration Services web platform that served as one stop shop for students and staff to provide services using HTML, CSS, and JS in Slate that helped to resolve student queries 40% faster.",
       "links": []
     },
     {
@@ -54,7 +54,7 @@
         "Jan 2021",
         "May 2021"
       ],
-      "description": "Learnt various technologies. Git, MongoDB, HTML, CSS, JavaScript, Java, Spring, React.js. Created a Responsive Single-page Full-Stack Web Application (Grab’n’Go) using React.js, Spring, MongoDB, Tailwind CSS.Successfully completed the Internship. Stood top in a batch of 60, one of 5, selected from around 5000 applicants",
+      "description": "Completed an intensive 4-month internship, standing out as the top performer among 60 peers. Selected as one of the five from 5000 applicants, I achieved mastery in Git, MongoDB, HTML, CSS, JavaScript, Java, Spring, and React.js",
       "links": []
     },
     {
@@ -72,18 +72,23 @@
   ],
   "projects": [
     {
-      "pName": "Can't Stop",
+      "pName": "I-20 Processor",
       "pTag": "",
       "location": "University of New Haven",
-      "pDescription": "A CLI program for the Can't Stop board game was built using OOP principles. The game's functionality was divided into modules for better code readability. OOP concepts such as Polymorphism, Templates, Inheritance, and Abstract classes were utilized in the project's creation.",
-      "cWorking": true,
+      "pDescription": "Successfully implemented a substantial enhancement, resulting in an impressive 80% increase in operational speed and a remarkable 100% improvement in accuracy over manual processes. The Full-Stack web-application tool became a valuable asset for the Enrolment Operations office.",
+      "cWorking": false,
       "duration": [
-        "Jan 2023",
-        "May 2023"
+        "Aug 2023",
+        "Dec 2023"
       ],
       "skills": [
-        "C++",
-        "OOPS"
+        "Next.js",
+        "React.js",
+        "Tailwind CSS",
+        "Python",
+        "Flask",
+        "TypeScript",
+        "JavaScript"
       ],
       "links": []
     },
@@ -112,12 +117,14 @@
     }
   ],
   "skills": [
-    "Vue.js",
     "React.js",
+    "Next.js",
+    "Vue.js",
     "Redux",
     "HTML5",
     "CSS3",
-    "JS",
+    "JavaScript",
+    "TypeScript",
     "Tailwind CSS",
     "Java",
     "Spring",
@@ -128,7 +135,8 @@
     "MVC",
     "Micro-services",
     "RESTful APIs",
-    "Git"
+    "Git",
+    "Jira"
   ],
   "social": {
     "LinkedIn": "https://www.linkedin.com/in/shirdik/",
